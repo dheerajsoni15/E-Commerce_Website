@@ -1,0 +1,26 @@
+.section{
+  height: 200px;
+  width: 200px;
+  margin: 0px auto;
+  background-color: aqua;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.section img{
+  width: 100%;
+
+}
+.footer{
+  height: 400px;
+}
+.social{
+  list-style-type: none;
+
+}
+.social li{
+  display: inline-block;
+  background-color: black;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 50%;
+}
