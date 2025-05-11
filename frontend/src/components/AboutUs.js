@@ -13,7 +13,7 @@ export default function AboutUs() {
         </div>
       </div>
     </div>
-  
+{/* jfgfgriufgruifgeriuf */}
     <div class="container">
       <div class="row gy-4 gy-lg-0 align-items-lg-center">
         <div class="col-12 col-lg-6">
